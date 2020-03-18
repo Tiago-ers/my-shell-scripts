@@ -1,3 +1,3 @@
 #!/bin/bash
-FRASE="Shell Script com variáveis é demais"
-echo $FRASE
+#Vou ter muito sucesso na programação!
+
